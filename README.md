@@ -4,3 +4,4 @@
 
 ## Los motores paso a paso bipolares son dispositivos electromecánicos utilizados en una amplia variedad de aplicaciones que requieren un control preciso del movimiento, como impresoras 3D, máquinas CNC, robots, cámaras, sistemas de posicionamiento y más. Estos motores son apreciados por su capacidad para girar en incrementos discretos, lo que facilita el control de la posición y la velocidad.
 
+
