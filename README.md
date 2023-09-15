@@ -49,16 +49,54 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 - **Eficiencia Energética:** En aplicaciones que requieren un movimiento continuo y rápido, pueden no ser tan eficientes energéticamente como otros motores.
 
 <div align="center">
-| Característica                   | Descripción                                           |
-|----------------------------------|-------------------------------------------------------|
-| Pasos por Revolución             | 1.8 grados (generalmente), también 0.9 grados        |
-| Torque                           | Alto, especialmente a bajas velocidades              |
-| Resolución de Posición           | Excelente para posicionamiento preciso               |
-| Velocidad Máxima                 | Relativamente baja en comparación con otros motores  |
-| Control Preciso                  | Ideal para control de posición y movimiento precisos |
-| Facilidad de Control             | Relativamente simple con controladores adecuados    |
-| Bipolar vs. Unipolar             | Proporciona más torque, control un poco más complejo|
-| Consumo de Energía               | Puede consumir energía en reposo (retención de torque)|
-| Durabilidad                      | Robusto y duradero, adecuado para aplicaciones industriales |
-| Tamaño y Variaciones             | Disponible en una variedad de tamaños y configuraciones |
+  <table>
+    <thead>
+      <tr>
+        <th>Característica</th>
+        <th>Descripción</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Pasos por Revolución</td>
+        <td>1.8 grados (generalmente), también 0.9 grados</td>
+      </tr>
+      <tr>
+        <td>Torque</td>
+        <td>Alto, especialmente a bajas velocidades</td>
+      </tr>
+      <tr>
+        <td>Resolución de Posición</td>
+        <td>Excelente para posicionamiento preciso</td>
+      </tr>
+      <tr>
+        <td>Velocidad Máxima</td>
+        <td>Relativamente baja en comparación con otros motores</td>
+      </tr>
+      <tr>
+        <td>Control Preciso</td>
+        <td>Ideal para control de posición y movimiento precisos</td>
+      </tr>
+      <tr>
+        <td>Facilidad de Control</td>
+        <td>Relativamente simple con controladores adecuados</td>
+      </tr>
+      <tr>
+        <td>Bipolar vs. Unipolar</td>
+        <td>Proporciona más torque, control un poco más complejo</td>
+      </tr>
+      <tr>
+        <td>Consumo de Energía</td>
+        <td>Puede consumir energía en reposo (retención de torque)</td>
+      </tr>
+      <tr>
+        <td>Durabilidad</td>
+        <td>Robusto y duradero, adecuado para aplicaciones industriales</td>
+      </tr>
+      <tr>
+        <td>Tamaño y Variaciones</td>
+        <td>Disponible en una variedad de tamaños y configuraciones</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
