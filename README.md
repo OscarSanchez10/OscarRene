@@ -49,7 +49,7 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 - **Eficiencia Energética:** En aplicaciones que requieren un movimiento continuo y rápido, pueden no ser tan eficientes energéticamente como otros motores.
 
 - 
-
+<div align="center">
 | Característica                   | Descripción                                           |
 |----------------------------------|-------------------------------------------------------|
 | Pasos por Revolución             | 1.8 grados (generalmente), también 0.9 grados        |
@@ -62,3 +62,4 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 | Consumo de Energía               | Puede consumir energía en reposo (retención de torque)|
 | Durabilidad                      | Robusto y duradero, adecuado para aplicaciones industriales |
 | Tamaño y Variaciones             | Disponible en una variedad de tamaños y configuraciones |
+</div>
