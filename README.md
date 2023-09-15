@@ -1,4 +1,4 @@
-# OscarRene
+# OscarTech.github.io
 ## Depto de Sistemas y Computación
 ## Ing. En Sistemas Computacionales
 ## SISTEMAS PROGRAMABLES 23a
