@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-  <h1>OscarTech.github.io</h1>
-</div>
-
 <div align="center">
   <h2>Bipolar Stepper Motor</h2>
   <img src="https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/6441bc4e-1ecc-423f-aa6d-aca5d755e8db" alt="Motor Bipolar Stepper">
