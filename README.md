@@ -43,5 +43,3 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 - **Velocidad Limitada:** Tienen una velocidad máxima limitada en comparación con otros tipos de motores.
 
 - **Eficiencia Energética:** En aplicaciones que requieren un movimiento continuo y rápido, pueden no ser tan eficientes energéticamente como otros motores.
-
-En resumen, los motores paso a paso bipolares son dispositivos versátiles y confiables que se utilizan en una amplia gama de aplicaciones que requieren control de movimiento preciso. Su funcionamiento se basa en principios electromagnéticos y su capacidad de control sencillo los convierte en una elección popular para ingenieros y diseñadores de sistemas automatizados.
