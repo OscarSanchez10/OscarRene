@@ -1,6 +1,6 @@
 # OscarTech.github.io
-## Ing. En Sistemas Computacionales
-![610jO-nmCJL _AC_UF894,1000_QL80_](https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/cf7c519f-7477-4920-9685-da71e97a04e3)
+## Bipolar Stepper Motor
+![61VUWhOaxuL __AC_SX300_SY300_QL70_ML2_](https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/6441bc4e-1ecc-423f-aa6d-aca5d755e8db)
 ## SISTEMAS PROGRAMABLES 23a
 ## Autor (es): ___________
 ## Repositorio:  
