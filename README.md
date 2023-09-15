@@ -1,6 +1,10 @@
 # OscarTech.github.io
-## Bipolar Stepper Motor
-![61VUWhOaxuL __AC_SX300_SY300_QL70_ML2_](https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/6441bc4e-1ecc-423f-aa6d-aca5d755e8db)
+
+<div align="center">
+  <h2>Bipolar Stepper Motor</h2>
+  <img src="https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/6441bc4e-1ecc-423f-aa6d-aca5d755e8db" alt="Motor Bipolar Stepper">
+</div>
+
 
 # Introducción a los Motores Paso a Paso Bipolares
 
@@ -44,7 +48,9 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 
 - **Eficiencia Energética:** En aplicaciones que requieren un movimiento continuo y rápido, pueden no ser tan eficientes energéticamente como otros motores.
 
-- | Característica                   | Descripción                                           |
+- 
+
+| Característica                   | Descripción                                           |
 |----------------------------------|-------------------------------------------------------|
 | Pasos por Revolución             | 1.8 grados (generalmente), también 0.9 grados        |
 | Torque                           | Alto, especialmente a bajas velocidades              |
