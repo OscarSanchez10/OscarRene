@@ -7,15 +7,15 @@
   <img src="https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/6441bc4e-1ecc-423f-aa6d-aca5d755e8db" alt="Motor Bipolar Stepper">
 </div>
 
-# Introducción a los Motores Paso a Paso Bipolares
+## Introducción a los Motores Paso a Paso Bipolares
 
 Los motores paso a paso bipolares son dispositivos electromecánicos utilizados en una amplia variedad de aplicaciones que requieren un control preciso del movimiento, como impresoras 3D, máquinas CNC, robots, cámaras, sistemas de posicionamiento y más. Estos motores son apreciados por su capacidad para girar en incrementos discretos, lo que facilita el control de la posición y la velocidad.
 
-# Principio de Funcionamiento
+## Principio de Funcionamiento
 
 Los motores paso a paso bipolares funcionan en base al principio de que una corriente eléctrica fluye a través de bobinas dispuestas en el motor, creando campos magnéticos que interactúan con imanes permanentes para generar movimiento. A diferencia de los motores de corriente continua (DC) o los motores de corriente alterna (AC), los motores paso a paso no requieren retroalimentación de posición para controlar su movimiento, lo que los hace muy fiables en aplicaciones de precisión.
 
-# Estructura de un Motor Paso a Paso Bipolar
+## Estructura de un Motor Paso a Paso Bipolar
 
 Un motor paso a paso bipolar típico consta de varias partes clave:
 
@@ -27,7 +27,7 @@ Un motor paso a paso bipolar típico consta de varias partes clave:
 
 - **Imanes Permanentes:** Los imanes permanentes están dispuestos en el rotor o el estator y generan campos magnéticos fijos que interactúan con los campos magnéticos generados por las bobinas.
 
-# Control de un Motor Paso a Paso Bipolar
+## Control de un Motor Paso a Paso Bipolar
 
 Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales a las bobinas. Existen varios tipos de secuencias de bobinas, pero las dos más comunes son la secuencia completa y la secuencia media.
 
@@ -43,7 +43,7 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 
 - **Torque en Reposo:** Tienen la capacidad de mantener una posición con un alto nivel de torque incluso cuando no se aplican corrientes.
 
-# Limitaciones de los Motores Paso a Paso Bipolares
+## Limitaciones de los Motores Paso a Paso Bipolares
 
 - **Velocidad Limitada:** Tienen una velocidad máxima limitada en comparación con otros tipos de motores.
 
