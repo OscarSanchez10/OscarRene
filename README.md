@@ -1,6 +1,6 @@
 # OscarTech.github.io
-## Depto de Sistemas y Computación
 ## Ing. En Sistemas Computacionales
+![610jO-nmCJL _AC_UF894,1000_QL80_](https://github.com/OscarSanchez10/OscarTech.github.io/assets/129460323/cf7c519f-7477-4920-9685-da71e97a04e3)
 ## SISTEMAS PROGRAMABLES 23a
 ## Autor (es): ___________
 ## Repositorio:  
