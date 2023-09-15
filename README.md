@@ -48,7 +48,6 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 
 - **Eficiencia Energética:** En aplicaciones que requieren un movimiento continuo y rápido, pueden no ser tan eficientes energéticamente como otros motores.
 
-- 
 <div align="center">
 | Característica                   | Descripción                                           |
 |----------------------------------|-------------------------------------------------------|
