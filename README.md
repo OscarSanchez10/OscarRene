@@ -43,3 +43,16 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
 - **Velocidad Limitada:** Tienen una velocidad máxima limitada en comparación con otros tipos de motores.
 
 - **Eficiencia Energética:** En aplicaciones que requieren un movimiento continuo y rápido, pueden no ser tan eficientes energéticamente como otros motores.
+
+- | Característica                   | Descripción                                           |
+|----------------------------------|-------------------------------------------------------|
+| Pasos por Revolución             | 1.8 grados (generalmente), también 0.9 grados        |
+| Torque                           | Alto, especialmente a bajas velocidades              |
+| Resolución de Posición           | Excelente para posicionamiento preciso               |
+| Velocidad Máxima                 | Relativamente baja en comparación con otros motores  |
+| Control Preciso                  | Ideal para control de posición y movimiento precisos |
+| Facilidad de Control             | Relativamente simple con controladores adecuados    |
+| Bipolar vs. Unipolar             | Proporciona más torque, control un poco más complejo|
+| Consumo de Energía               | Puede consumir energía en reposo (retención de torque)|
+| Durabilidad                      | Robusto y duradero, adecuado para aplicaciones industriales |
+| Tamaño y Variaciones             | Disponible en una variedad de tamaños y configuraciones |
