@@ -97,3 +97,5 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
     </tbody>
   </table>
 </div>
+
+[Ejemplo](https://www.aranacorp.com/es/controla-un-motor-paso-a-paso-con-arduino/)
