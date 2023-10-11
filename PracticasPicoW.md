@@ -1,6 +1,6 @@
 ## 2.1 - Práctica Hola Mundo
 
-<image src="/images/mundo.jpg" alt="Descripción de la imagen">
+<image src="/Imágenes/mundo.jpg" alt="Descripción de la imagen">
 
 ```
 from machine import Pin, I2C
