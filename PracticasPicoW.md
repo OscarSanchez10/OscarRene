@@ -1,8 +1,7 @@
 ## 2.1 - Práctica Hola Mundo
 
 <image src="/Imágenes/mundo.jpg" alt="Descripción de la imagen">
-
-```
+'''
 from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
 
@@ -13,4 +12,10 @@ i2c = I2C(0, scl=Pin(1), sda=Pin(0), freq=200000)
 oled = SSD1306_I2C(WIDTH, HEIGHT, i2c)
 oled.text("Hola Mundo!", 0, 0)
 oled.show()
-```
+'''
+
+# Cargar y mostrar la imagen
+with open("imagen.bmp", "rb") as f:
+    oled.image(f)
+oled.show()
+
