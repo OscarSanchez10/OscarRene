@@ -1,4 +1,4 @@
-2.1 - Practica Hola Mundo 
+## 2.1 - Práctica Hola Mundo
 
 ```python
 from machine import Pin, I2C
