@@ -1,6 +1,6 @@
 ## 2.1 - Práctica Hola Mundo
 
- <img src="Imágenes/mundo.jpg">
+![Texto alternativo](Imágenes/mundo.jpg)
 
 ```
 from machine import Pin, I2C
