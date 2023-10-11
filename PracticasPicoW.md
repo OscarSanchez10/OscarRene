@@ -1,6 +1,4 @@
 ## 2.1 - Práctica Hola Mundo
-
-<image src="/Imágenes/mundo.jpg">
     
 ```
 from machine import Pin, I2C
@@ -14,3 +12,5 @@ oled = SSD1306_I2C(WIDTH, HEIGHT, i2c)
 oled.text("Hola Mundo!", 0, 0)
 oled.show()
 ```
+
+
