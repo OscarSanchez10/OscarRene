@@ -98,6 +98,19 @@ Para controlar un motor paso a paso bipolar, se aplican corrientes secuenciales 
   </table>
 </div>
 
+```python
+from machine import Pin, I2C
+from ssd1306 import SSD1306_I2C
+
+WIDTH = 128
+HEIGHT = 64
+
+i2c = I2C(0, scl=Pin(1), sda=Pin(0), freq=200000)
+oled = SSD1306_I2C(WIDTH, HEIGHT, i2c)
+oled.text("Hola Mundo!", 0, 0)
+oled.show()
+
+
 [Ejemplo](https://www.aranacorp.com/es/controla-un-motor-paso-a-paso-con-arduino/)
 
 [Practicas Pico W](/PracticasPicoW.md)
