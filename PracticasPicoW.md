@@ -1,5 +1,7 @@
 ## 2.1 - Práctica Hola Mundo
 
+ <img src="Imágenes/mundo.jpg">
+
 ```
 from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
